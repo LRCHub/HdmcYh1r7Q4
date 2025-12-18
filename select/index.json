@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tick-Tack",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-18T15:27:13.763845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/01_Tick_Tack_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tick Tack - Live",
+      "artist": "Crematory",
+      "has_synced": false,
+      "path": "select/02_Tick_Tack_-_Live_Crematory.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "U-KISS",
+      "has_synced": false,
+      "path": "select/03_Tick_Tack_U-KISS.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tick Tack (Genius)",
+      "artist": "YOHIO",
+      "has_synced": true,
+      "path": "select/04_Tick_Tack_(Genius)_YOHIO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tick Tack! Goes My Automatic Heart",
+      "artist": "Get Well Soon",
+      "has_synced": true,
+      "path": "select/05_Tick_Tack!_Goes_My_Automatic_Heart_Get_Well_Soon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "OOMPH!",
+      "has_synced": false,
+      "path": "select/06_Tick_Tack_OOMPH!.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/07_Tick_Tack_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "Aintops",
+      "has_synced": true,
+      "path": "select/08_Tick_Tack_Aintops.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tick tack",
+      "artist": "Kent",
+      "has_synced": false,
+      "path": "select/09_Tick_tack_Kent.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tick Tack 2nd",
+      "artist": "Aintops",
+      "has_synced": false,
+      "path": "select/10_Tick_Tack_2nd_Aintops.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tick tack",
+      "artist": "Kent",
+      "has_synced": true,
+      "path": "select/11_Tick_tack_Kent.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "17 Hippies",
+      "has_synced": true,
+      "path": "select/12_Tick_Tack_17_Hippies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tick Tack",
+      "artist": "Kontra K",
+      "has_synced": true,
+      "path": "select/13_Tick_Tack_Kontra_K.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tick Täck",
+      "artist": "Summer Cem",
+      "has_synced": true,
+      "path": "select/14_Tick_Täck_Summer_Cem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tick-Tack",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Tick-Tack_ILLIT.txt"
+    }
+  ]
+}
