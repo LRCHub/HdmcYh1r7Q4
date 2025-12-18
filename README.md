@@ -1,0 +1,47 @@
+# ILLIT – Tick-Tack
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tick tack tick tack die Zeit läuft ab
+Tick tack tick tack zu Ende
+Wo bist du die Stadt ist dunkel und leer
+Wo bist du
+Die Stille liegt auf mir tonnenschwer
+Mein Herz schlägt
+Beide Hände halten mich am äußersten Rand
+Mein Herz schlägt alles um mich dreht sich
+Ich verlier den Verstand
+Ich bin so leer, ich spür gar nichts mehr
+Alles rast auf mich zu
+Halt mich fest, denn die Zeit läuft ab
+Und der Himmel löst sich auf
+Halt mich fest, meine Zeit wird knapp
+Bitte halt mich, halt mich jetzt noch auf
+Wo bist du die Angst hat mich im Visier
+Wo bist du
+Wenn ich die Macht über mich verlier
+Mein Herz schlägt
+Nur ein kleiner Schritt noch
+Und ich stürze hinab mein Herz schlägt
+Alles um mich dreht sich und
+Gerät aus dem Takt
+Ich bin so leer, ich spür gar nichts mehr
+Alles rast auf mich zu
+Halt mich fest, denn die Zeit läuft ab
+Und der Himmel löst sich auf
+Halt mich fest, meine Zeit wird knapp
+Bitte halt mich, halt mich jetzt noch auf
+Tick tack tick tack die Zeit läuft ab
+Tick tack tick tack zu Ende
+Tick tack tick tack die Zeit läuft ab
+Tick tack tick tack zu Ende
+Halt mich fest, denn die Zeit läuft ab
+Und der Himmel löst sich auf
+Halt mich fest, meine Zeit wird knapp
+Bitte halt mich, halt mich jetzt noch auf
+Halt mich fest halt mich fest
+Bitte halt mich, halt mich jetzt noch auf
+Halt mich fest halt mich fest
+Bitte halt mich, halt mich jetzt noch auf
+```
